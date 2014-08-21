@@ -10,4 +10,4 @@ tfidf of n-grams (3) set up as a one vs. rest classifier.
 
 How this works
 ===============
-First, e-mail me and I'll send you the small set of documents as a .zip to run this. The algorithm doesn't work well with the test set for a variety of reasons including poor human tagging and over-tagging. However, I plan to test this on a much larger corpus to see if this can get better results. The entity extraction works ok though. documentagger.py & documentagger.ipynb are the same except the .pynb file will run with (http://ipython.org/notebook.html "iPython Notebook"). 
+First, e-mail me and I'll send you the small set of documents as a .zip to run this. The algorithm doesn't work well with the test set for a variety of reasons including poor human tagging and over-tagging. However, I plan to test this on a much larger corpus to see if this can get better results. The entity extraction works ok though. documentagger.py & documentagger.ipynb are the same except the .pynb file will run with [iPython Notebook](http://ipython.org/notebook.html). 
